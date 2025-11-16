@@ -13,6 +13,7 @@
 ![Java](https://img.shields.io/badge/Code-Java-orange?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/Code-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Code-Python-yellow?style=flat&logo=pyhon&logoColor=white)
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/Frontend-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
