@@ -37,15 +37,13 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [📱 Android Notes App](https://github.com/yourusername/android-notes-app) | A clean Android notes app using SQLite | Java, Android Studio |
-| [🌐 Portfolio Website](https://github.com/yourusername/portfolio-site) | Personal portfolio built with PHP & JS | HTML, CSS, PHP, JS |
-| [🛒 E-Commerce Backend](https://github.com/yourusername/ecommerce-backend) | RESTful backend for an online store | Node.js, MySQL |
+| [📱 Clean Messenger App](https://github.com/DS-All/CleanMessenger) | A clean Android Chatting app | Java, Android Studio |
+| [🌐 AI Batch Image Upscaler](https://github.com/DS-All/Batch-Image-upscaler) | A Batch AI Image Upscaler build using Python | Tkinter, Real-ESRGAN, Numpy, Pillow |
 
 ---
 
 ## 📊 GitHub Stats
 ![DS-All](https://github-readme-stats.vercel.app/api?username=DS-All&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DS-All&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DS-All&theme=tokyonight)
 
 ---
