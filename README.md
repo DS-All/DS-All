@@ -35,10 +35,10 @@
 
 ## 🏗️ Featured Projects
 
-| Project | Description | Tech |
-|----------|--------------|------|
-| [📱 Clean Messenger App](https://github.com/DS-All/CleanMessenger) | A clean Android Chatting app | Java, Android Studio |
-| [🌐 AI Batch Image Upscaler](https://github.com/DS-All/Batch-Image-upscaler) | A Batch AI Image Upscaler build using Python | Tkinter, Real-ESRGAN, Numpy, Pillow |
+| Project | Description | Tech | Status |
+|----------|--------------|------|------|
+| [📱 Clean Messenger App](https://github.com/DS-All/CleanMessenger) | A clean Android Chatting app | Java, Android Studio | Private |
+| [🌐 AI Batch Image Upscaler](https://github.com/DS-All/Batch-Image-upscaler) | A Batch AI Image Upscaler build using Python | Tkinter, Real-ESRGAN, Numpy, Pillow | Public |
 
 ---
 
