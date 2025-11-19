@@ -1,4 +1,10 @@
-# 👋 Hey there, I'm Danish!
+# 👋 Hey there, I'm Danish! 
+![Profile Views](https://komarev.com/ghpvc/?username=DS-All)
+![GitHub followers](https://img.shields.io/github/followers/DS-All?style=social)
+![Languages](https://img.shields.io/badge/Code-PHP%20%7C%20Java%20%7C%20JS-blue)
+![Android](https://img.shields.io/badge/Android-Java-green)
+![AI Tools](https://img.shields.io/badge/AI%20Tools-RealESRGAN-orange)
+
 
 💻 Full-Stack Web Developer & Android Enthusiast  
 🚀 Passionate about building scalable web apps and sleek Android experiences  
