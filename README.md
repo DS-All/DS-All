@@ -45,6 +45,7 @@
 |----------|--------------|------|------|
 | [📱 Clean Messenger App](https://github.com/DS-All/CleanMessenger) | A clean Android Chatting app | Java, Android Studio | Private |
 | [🌐 AI Batch Image Upscaler](https://github.com/DS-All/Batch-Image-upscaler) | A Batch AI Image Upscaler build using Python | Tkinter, Real-ESRGAN, Numpy, Pillow | Public |
+| [📔 Cozy Daily Diary](https://github.com/DS-All/Cozy-Pixel-Dairy) | A Daily Diary to write your daily thoughts and feelings | HTML, CSS, JS | Public |
 
 ---
 
