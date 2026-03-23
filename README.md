@@ -44,7 +44,7 @@
 | Project | Description | Tech | Status |
 |----------|--------------|------|------|
 | [📱 Clean Messenger App](https://github.com/DS-All/CleanMessenger) | A clean Android Chatting app | Java, Android Studio | Private |
-| [📱 Clean Messenger App Public](https://github.com/DS-All/clean-messenger) | Public Gitub Page of Clean Messenger App, Find all updates here! | Java, Android Studio | Public |
+| [📰 Clean Messenger Updates](https://github.com/DS-All/clean-messenger) | Public Gitub Page of Clean Messenger App <br> <b> Find all updates here! </b> | Markdown | Public |
 | [🌐 AI Batch Image Upscaler](https://github.com/DS-All/Batch-Image-upscaler) | A Batch AI Image Upscaler build using Python | Tkinter, Real-ESRGAN, Numpy, Pillow | Public |
 | [📔 Cozy Daily Diary](https://github.com/DS-All/Cozy-Pixel-Dairy) | A Daily Diary to write your daily thoughts and feelings | HTML, CSS, JS | Public |
 
