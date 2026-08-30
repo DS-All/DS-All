@@ -5,7 +5,7 @@
 ![Android](https://img.shields.io/badge/Android-Java-green)
 ![AI Tools](https://img.shields.io/badge/AI%20Tools-RealESRGAN-orange)
 
-
+🌐 Explore my work: [Portfolio](https://www.danishshaikh.xyz/)   
 💻 Full-Stack Web Developer & Android Enthusiast  
 🚀 Passionate about building scalable web apps and sleek Android experiences  
 🌱 Currently learning more about **Cloud Deployment & REST APIs**  
